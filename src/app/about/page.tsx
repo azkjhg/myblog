@@ -17,12 +17,12 @@ const AboutPage = () => {
         <h2 className={TITLE_CLASS}>Who Am I?</h2>
         <p>
           좋은 개발자
-          <br /> 만국을 소성시키는 웹을 만들고 있음{" "}
+          <br />웹을 만들고 있음{" "}
         </p>
         <h2 className={TITLE_CLASS}>Carrer</h2>
         <p>경력은 없음</p>
         <h2 className={TITLE_CLASS}>Skills</h2>
-        <p>리액트, 노드, 넥스트, 깃, Mysql</p>
+        <p>리액트, 노드, 넥스트, 깃, 몽고디비</p>
       </section>
     </>
   );
