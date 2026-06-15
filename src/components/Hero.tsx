@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
-import profileImage from "../../public/images/posts/profile.jpg"
+import profileImage from "../../public/images/posts/profile.png"
 import Link from 'next/link'
 
 const Hero = () => {
